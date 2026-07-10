@@ -23,11 +23,11 @@ export default function Contact() {
         </Reveal>
         <Reveal delay={0.08}>
           <p className="text-fg-muted text-lg max-w-lg mb-4">
-            New York, NY — open to Product, BizOps, Strategy &amp; Operations,
-            and Business Development roles.
+            Open to Product, BizOps, Strategy &amp; Operations, and Business
+            Development roles.
           </p>
           <p className="text-fg-muted max-w-lg mb-14">
-            Best way to reach me is email — I try to respond within a day.
+            Best way to reach me is email. I try to respond within a day.
           </p>
         </Reveal>
 

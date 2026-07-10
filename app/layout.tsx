@@ -25,7 +25,7 @@ const mono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Rishika Juloori",
   description:
-    "Product & data strategist — enterprise migrations, satellite maneuver intelligence, and a trained Carnatic vocalist's ear for structure.",
+    "Product and data strategist working across enterprise migrations, satellite maneuver intelligence, and a trained Carnatic vocalist's ear for structure.",
 };
 
 export default function RootLayout({

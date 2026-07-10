@@ -81,7 +81,7 @@ export default function TalaCycle() {
         {playing ? "Pause" : "Play the cycle"}
       </button>
       <p className="font-mono text-[11px] text-fg-faint text-center max-w-[220px]">
-        Adi talam — an eight-beat rhythm cycle every Carnatic phrase resolves
+        Adi talam, an eight-beat rhythm cycle every Carnatic phrase resolves
         against.
       </p>
     </div>

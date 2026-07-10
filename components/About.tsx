@@ -20,7 +20,7 @@ export default function About() {
               <p>
                 I studied computer science at Michigan State, then spent two
                 years leading enterprise data migrations for Fortune 500 clients
-                at Proliant — the kind of work where a wrong call shows up on a
+                at Proliant, the kind of work where a wrong call shows up on a
                 VP&rsquo;s dashboard, not a Jira ticket. Now I&rsquo;m at Cornell
                 Tech for my MBA, building AI products in the Startup &amp;
                 Product Studio.
@@ -28,7 +28,7 @@ export default function About() {
             </Reveal>
             <Reveal delay={0.12}>
               <p>
-                I like the messy middle — problems where the data is noisy, the
+                I like the messy middle: problems where the data is noisy, the
                 stakeholders don&rsquo;t agree, and someone has to decide what
                 actually matters. Turning that into a clear call is the part I
                 enjoy most.
@@ -37,7 +37,7 @@ export default function About() {
             <Reveal delay={0.19}>
               <p>
                 I&rsquo;m looking for roles in product management, business
-                operations, strategy, or business development — ideally
+                operations, strategy, or business development, ideally
                 somewhere I can keep working at the seam between the technical
                 and the human.
               </p>

@@ -61,27 +61,6 @@ export default function Hero() {
           {profile.subTagline}
         </motion.p>
 
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.65 }}
-          className="flex flex-wrap items-center gap-4 mt-10"
-        >
-          <a
-            href={profile.resumeHref}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="font-mono text-xs uppercase tracking-widest bg-accent text-bg rounded-full px-6 py-3 hover:opacity-85 transition-opacity"
-          >
-            View Resume
-          </a>
-          <a
-            href="#work"
-            className="font-mono text-xs uppercase tracking-widest border border-border-strong text-fg rounded-full px-6 py-3 hover:border-accent hover:text-accent transition-colors"
-          >
-            See the Work
-          </a>
-        </motion.div>
       </div>
 
       <motion.div

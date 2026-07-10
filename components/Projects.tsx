@@ -109,7 +109,7 @@ export default function Projects() {
         </Reveal>
         <Reveal delay={0.05}>
           <p className="text-fg-muted mb-14 max-w-xl">
-            Hover a project to preview it — click to open the full case study
+            Hover a project to preview it. Click to open the full case study
             (problem, approach, outcome).
           </p>
         </Reveal>
