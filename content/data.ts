@@ -38,7 +38,7 @@ export const projects: Project[] = [
     id: "ephemeris",
     title: "Ephemeris",
     tagline: "AI decision support for satellite operators.",
-    role: "Product Lead",
+    role: "Chief Product Officer",
     tags: ["AI/ML", "Product Strategy", "SaaS", "B2B"],
     accent: "#7fa8d8", // orbital blue
     links: [
@@ -59,7 +59,7 @@ export const projects: Project[] = [
     id: "wardrobeai",
     title: "WardrobeAI",
     tagline: "AI wardrobe recommendations with a full business model.",
-    role: "Product Lead",
+    role: "Product Strategy Lead",
     tags: ["AI/ML", "Product Strategy", "Financial Modeling", "Consumer"],
     accent: "#d99ab0", // fashion rose
     problem:
